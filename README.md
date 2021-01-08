@@ -2,18 +2,19 @@
 # **iCoN RecycleBin**
 #### _Working Together Is Power_
 
-M3U 
-
+**M3U** 
+```markdown
 _ဘာညာကွိကွ_
+```
 
-
-Activation Code
-
+**Activation Code**
+```markdown
 _ဘာညာကွိကွ_
+```
 
-Xtream Code
-
+**Xtream Code**
+```markdown
 _ဘာညာကွိကွ_
-
+```
 
 #### _Powered By_ iCoN® 2021
