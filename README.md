@@ -16,6 +16,6 @@ Xtream Code
 _ဘာညာကွိကွ_
 
 ```markdown
-_For more details see [RecycleBin](https://welcomebaby.github.io/RecycleBin)_
+For more details see [RecycleBin](https://welcomebaby.github.io/RecycleBin)
 ```
-### Powered By iCoN® 2021
+##### Powered By iCoN® 2021
