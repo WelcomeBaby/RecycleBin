@@ -1,19 +1,18 @@
-## iCoN RecycleBin Network
-
-You can use the [editor on GitHub](https://github.com/WelcomeBaby/RecycleBin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### iPTV Knowledge Sharing
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## iCoN RecycleBin
+### iPTV Knowledge Sharing Network
 
 ```markdown
 Syntax highlighted code block
 
- Xtream Code
- M3U
- Code
+
+M3U
+
+
+Activation Code
+
+
+Xtream Code
+ 
  
 #- Bulleted
 #- List
