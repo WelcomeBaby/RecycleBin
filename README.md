@@ -3,7 +3,7 @@
  
 Download RecycleBin Test Apk
 ```markdown
-https://apk.e-droid.net/apk/app1351463.apk?v=6
+https://bit.ly/39sg5bk
 ```
 
 **M3U** 
